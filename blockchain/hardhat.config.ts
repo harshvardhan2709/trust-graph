@@ -1,4 +1,5 @@
 import { defineConfig } from "hardhat/config";
+import "@nomicfoundation/hardhat-toolbox";
 
 export default defineConfig({
   solidity: {
